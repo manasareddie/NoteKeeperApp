@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/showAll"
+        android:title="@string/item1"
+        />
+    <item android:id="@+id/showComp"
+        android:title="@string/item2"
+        />
+    <item android:id="@+id/showPen"
+        android:title="@string/item3"
+        />
+    <item android:id="@+id/sortTime"
+        android:title="@string/item4"
+        />
+    <item android:id="@+id/sortPri"
+        android:title="@string/item5"
+        />
+</menu>
